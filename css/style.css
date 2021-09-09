@@ -1,0 +1,68 @@
+body {
+    overflow-x: hidden;
+    background-color: #151515;
+}
+
+.navbar {
+    border: 2px solid #F2C94C;
+}
+
+.top {
+    min-height: 100vh;
+    position: relative;
+}
+.circle {
+    border-radius: 50%;
+    position: absolute;
+    height:400px;
+    width: 400px;
+    background-color: #F2C94C;
+}
+.circle1 {
+    top: -90px;
+    right: -370px;
+}
+.circle2 {
+    top: 600px;
+    left: -370px;
+}
+.content-left img {
+    object-fit: cover;
+    border-radius: 200px 200px 0 0;
+    border-right: 4px solid #F2C94C;
+}
+.content-right h1 {
+    font-size: 80px;
+    border-bottom: 2px solid #F2C94C;
+}
+
+.content-right button {
+    color: #151515;
+    background-color: #F2C94C;
+}
+.line {
+    width: 90px;
+    height: 4px;
+    background-color: #F2C94C;
+}
+.personal-skills {
+    font-weight: 700;
+    color: #F2C94C;
+}
+
+.box {
+    width: 300px;
+    height: 300px;
+    background-color: #2F2F2F;
+}
+.box1 {
+    background-color: #F2C94C !important;
+}
+.s-line {
+    width: 100px;
+    height: 4px;
+    background-color: #F2C94C;
+}
+.s-line1 {
+    background-color: #151515;
+}
